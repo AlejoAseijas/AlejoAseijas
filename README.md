@@ -16,4 +16,4 @@ fue la migración de Apache Solr 6 a 9.
 
 Soy técnico aviónico y trabajé como mecánico aeronáutico. Me apasionan la electrónica y la robótica.
 
-📍 Buenos Aires, Argentina · 🌐 [alejoaseijas.com](https://alejoaseijas.com) · 💼 [LinkedIn](https://www.linkedin.com/in/alejoaseijas/)
+📍 Buenos Aires, Argentina · 💼 [LinkedIn](https://www.linkedin.com/in/alejoaseijas/)
